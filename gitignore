@@ -1,0 +1,26 @@
+# Android Studio files
+.idea/
+.gradle/
+local.properties
+*.iml
+
+# Build folders
+/build/
+*/build/
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Keystore files
+*.jks
+*.keystore
+
+# Log files
+*.log
+
+# Crash logs
+crashlytics-build.properties
+
+# Gradle Wrapper
+/gradle/wrapper/gradle-wrapper.properties
