@@ -1,0 +1,28 @@
+{
+  "furniture": [
+    {
+      "name": "bench",
+      "image": "furniture/bench.png",
+      "keywords": ["bench", "seat", "wooden bench"],
+      "defaultSize": [1.5, 0.5]
+    },
+    {
+      "name": "couch",
+      "image": "furniture/couch.png",
+      "keywords": ["couch", "sofa", "seating"],
+      "defaultSize": [2.0, 0.8]
+    },
+    {
+      "name": "table",
+      "image": "furniture/table.png",
+      "keywords": ["table", "desk", "workspace"],
+      "defaultSize": [1.2, 0.7]
+    },
+    {
+      "name": "tree",
+      "image": "furniture/tree.png",
+      "keywords": ["tree", "oak", "plant"],
+      "defaultSize": [3.0, 3.0]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "furniture": [
+    {
+      "name": "wooden bench",
+      "image": "bench.png",
+      "keywords": ["bench", "wood", "garden"],
+      "defaultSize": {"width": 1.2, "height": 0.6}
+    },
+    {
+      "name": "modern sofa",
+      "image": "sofa.png",
+      "keywords": ["sofa", "couch", "modern"],
+      "defaultSize": {"width": 2.0, "height": 1.0}
+    },
+    {
+      "name": "round table",
+      "image": "round_table.png",
+      "keywords": ["table", "round"],
+      "defaultSize": {"width": 1.5, "height": 1.5}
+    }
+  ]
+}

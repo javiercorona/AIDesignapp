@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Wooden Bench",
+    "width": 1.5,
+    "height": 0.5,
+    "imagePath": "furniture/bench.png"
+  },
+  {
+    "name": "Garden Tree",
+    "width": 2.0,
+    "height": 4.0,
+    "imagePath": "furniture/tree.png"
+  }
+]

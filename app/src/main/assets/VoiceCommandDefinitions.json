@@ -1,0 +1,25 @@
+{
+  "ScanningMode": [
+    "start scanning",
+    "scan my room",
+    "capture panorama",
+    "begin 360 scan"
+  ],
+  "EditingMode": [
+    "add a couch",
+    "place a bench near the tree",
+    "move the table to the left",
+    "resize the table to 1.5 meters",
+    "remove the lamp"
+  ],
+  "SuggestionMode": [
+    "send me design ideas",
+    "generate remodel suggestions",
+    "give me layout recommendations"
+  ],
+  "SharingMode": [
+    "email me the design",
+    "share this design",
+    "send this layout to my email"
+  ]
+}
