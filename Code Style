@@ -1,0 +1,29 @@
+💡 Code Style
+Follow Android best practices.
+
+Use clear, meaningful commit messages.
+
+Document your code.
+
+Keep the app modular.
+
+🤖 AI-Related Contributions
+For AI features:
+
+Clearly describe the model or logic you're improving.
+
+Use mock data or proper testing if the model can't run locally.
+
+Follow data privacy and ethical AI use guidelines.
+
+⚡ Reporting Bugs
+Please open an issue with:
+
+Clear description.
+
+Steps to reproduce.
+
+Expected vs. Actual behavior.
+
+Screenshots (if possible).
+
