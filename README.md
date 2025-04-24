@@ -1,4 +1,4 @@
-# AIDe🏡 AI Design App — Open Source Remodel Assistant
+🏡 AI Design App — Open Source Remodel Assistant
 AI Design App is a privacy-respecting, offline-first Android application designed to help users visualize, plan, and remodel rooms using real-time voice commands and AI-powered suggestions.
 
 🚀 Features
